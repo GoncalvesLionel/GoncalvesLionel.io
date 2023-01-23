@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TP2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/.idea/TP2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP2/TP2.html" beforeDir="false" />
+    <list default="true" id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/.idea/HTML - CSS - JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/Image/instagram-p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/Image/linkedin-p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/Image/twitter-p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/Program/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portefolio/Program/portefolio.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1673249793803</updated>
       <workItem from="1673249795495" duration="18000" />
-      <workItem from="1674465212863" duration="380000" />
+      <workItem from="1674465212863" duration="828000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1674465630476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674465630476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
