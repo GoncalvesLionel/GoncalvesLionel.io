@@ -1,0 +1,98 @@
+#conteneur
+{
+    border: solid;
+    width: 600px;
+    height: 1000px;
+    margin: 0px auto 0px auto;
+    position: relative;
+}
+
+#entete
+{
+    width: 600px;
+    height: 200px;
+}
+
+#HautDePage
+{
+    background-color: lightgrey;
+    width: 400px;
+    height: 110px;
+    top: 50px;
+    right: 100px;
+    position: absolute;
+}
+
+#corps
+{
+    position: relative;
+    width: 600px;
+    height: 800px;
+}
+
+#ContenueDroite
+{
+    width: 400px;
+    height: 600px;
+    float: right;
+    font-size: small;
+}
+
+#ContenueGauche
+{
+    height: 600px;
+    width: 175px;
+    font-size: small;
+    margin-left: 10px;
+    background-color: lightgrey;
+}
+
+#PiedDePage
+{
+    height: 200px;
+    width: 600px;
+    position: absolute;
+    float: bottom;
+}
+
+#PiedDePage
+{
+    text-align: center;
+    margin-top : 10px;
+}
+
+p
+{
+    font-family: Arial;
+}
+
+.enligne
+{
+    display: inline;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.Lien
+{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Titre
+{
+    margin-top: 10px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.Image
+{
+    margin-left: 30px;
+}
+
+.Transparent
+{
+    color: grey;
+}
