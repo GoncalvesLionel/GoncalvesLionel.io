@@ -1,101 +1,179 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Positionnement - Position</title>
-    <link rel="stylesheet" href="portefolio.css">
-</head>
-<body>
-<div id = "conteneur">
-    <div id = "entete">
-        <div id = "HautDePage">
-            <div id = "Titre">
-                <p><b> Lionel GONÇALVES </b></p>
-            </div>
-        </div>
-    </div>
-    <hr>
-    <div id = "corps">
-        <div id = "ContenueDroite">
-            <p><b> Formation </b></p>
-            <p> - <b> Baccalauréat </b></p>
-            <p class="Transparent"> Lycée Jules Hardouin Mansart Saint-Cyr l'école </p>
-            <p class="Transparent"> Date : Septembre 2021 à Juillet 2022 </p>
-            <p> Spécialité : </p>
-            <ul>
-                <li> Mathématiques </li>
-                <li> Numériques et sciences informatiques </li>
-            </ul>
-            <p> Mention : <b> assez Bien </b></p>
-            <p><b> Stages </b></p>
-            <p>- Stage chez Wedding Plan:</p>
-            <div id="stage1">
-                <p>Adresse : 3 rue des capucine St Ouen l'Aumone</p>
-                <p>Forme juridique : SAS</p>
-                <p>Taille : micro-entreprise</p>
-                <p>Effectif : 9</p>
-                <p>Secteur d’activité : le mariage</p>
-                <p>historique : Lors de son mariage Webert Zele le créateur de wedding plan se rend compte que les wedding planner n'ont
-                pas de matériel aprropriés pour organiser les mariage il décide de créer un site internet leur permettant de
-                pouvoir tout gérer plus facilement plus tard il décide de l'étendre à tout les métier liés au mariage tel
-                que des dj des floral designer des cuisinier et plus encore</p>
-                <p>Le RGPD est mise en place par la gestion des infos des clients en effet les wedding planner ou autre voit
-                leur information supprimer des lors qu'ils veulent arrêter d'utiliser se site pour leur client à eux donc
-                les mariés les information sont supprimés des lors que les évènement prévue ou par la décison du wedding
-                planner</p>
-                <p>l'entreprise est en télétravail donc ne détient pas de locaux les employés n'ayant pas besoin de
-                conduire jusqu'aux locaux cela est favorable à l'environnement</p>
-                <p>les missions effectuer:</p>
-                <ol>
-                    <li> mise en place du texte de différente page vitrine du site en fonction des métier </li>
-                    <li>  ajout de la possibilités de mettre des photo dans certains dossier ou des boutons tout cocher </li>
-                    <li>  créer des  pages html et des controller php qui sont utiliser dans une appli mobile </li>
-                </ol>
-            </div>
-        </div>
-        <div id = "ContenueGauche">
-            <p><b> Informations personnelles </b></p>
-            <p> Date de naissance : 22 avril 2004 </p>
-            <p> Lieu de naissance : Le Chesnay </p>
-            <p> Sexe Homme </p>
-            <p> Nationalité : Portugais </p>
-            <hr>
-            <p><b> Langues </b></p>
-            <ul>
-                <li> Français </li>
-                <li> Anglais </li>
-                <li> Portugais </li>
-                <li> Espagnol </li>
-            </ul>
-            <hr>
-            <p><b> Centres d'interets </b></p>
-            <ul>
-                <Li> Voyage </Li>
-                <Li> Sport </Li>
-                <Li> Cinéma </Li>
-                <Li> Jeux vidéo </Li>
-            </ul>
-            <hr>
-            <p><b> Compétence </b></p>
-            <ul>
-                <li> Python </li>
-                <li> html/CSS </li>
-                <li> SQL </li>
-                <li> JAVA </li>
-                <li> Javascript </li>
-                <li>PHP</li>
-            </ul>
-        </div>
-        <div id = "PiedDePage">
-            <div>
-                <hr>
-                <p class = "TextePied"> <b> Contacts </b></p>
-            </div>
-            <p class = "enligne"><img src="linkedin-p.png" height="30" widht="30"></p>
-            <p class = "enligne"><img src="instagram-p.png"></p>
-            <p class = "enligne"><img src="twitter-p.png"></p>
-        </div>
-    </div>
-</div>
-</body>
+	<head>
+		<meta charset="utf-8">
+
+		<title>Lionel Gonçalves</title>
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+        <meta name="author" content="templatemo">
+        <!-- 
+        Lavish HTML CSS Template
+        https://templatemo.com/tm-458-lavish
+        -->
+        
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- animate -->
+		<link rel="stylesheet" href="css/animate.min.css">
+		<!-- bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<!-- font-awesome -->
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<!-- google font -->
+		<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700,800' rel='stylesheet' type='text/css'>
+		<!-- fullpage -->
+		<link rel="stylesheet" href="css/jquery.fullPage.css">
+		<!-- custom -->
+		<link rel="stylesheet" href="css/templatemo-style.css">
+
+	</head>
+	<body>
+
+	<div id="fullpage">
+
+		<!-- start home -->
+		<div id="home" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8 wow fadeIn" data-wow-delay="0.9s">
+						<h3>Simple and Elegant</h3>
+						<h1>Lionel Gonçalves</h1>
+						<h2>DEVELOPER</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end home -->
+
+		<!-- start about -->
+		<div id="about" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-xs-11 wow fadeInLeft" data-wow-delay="0.9s">
+						<h2>A propos de Lionel</h2>
+						<h4>DEVELOPER</h4>
+						<p>Je suis Lionel GONCALVES, étudiant en première année de BTS SIO (Services Informatiques aux Organisations), Option SLAM (Solutions Logicielles et Application Métier), à l'ORT à MONTREUIL.</p>
+					</div>
+					<div class="col-md-6 col-xs-11 wow fadeInRight" data-wow-delay="0.9s">
+						<span class="text-top">python</span>
+							<div class="progress">
+								<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%;"></div>
+							</div>
+						<span>HTML/CSS</span>
+							<div class="progress">
+								<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div>
+							</div>
+						<span>SQL</span>
+							<div class="progress">
+								<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
+							</div>
+						<span>JAVA</span>
+							<div class="progress">
+								<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;"></div>
+							</div>
+						<span>PHP</span>
+						<div class="progress">
+							<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 83%;"></div>
+						</div>
+						<span>Javascript</span>
+						<div class="progress">
+							<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 77%;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end about -->
+
+		<!-- start portfolio -->
+		<div id="portfolio" class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="wow bounce">Stage et Projet</h2>
+				</div>
+				<div class="col-md-4 col-xs-6 wow fadeIn" data-wow-delay="0.6s">
+					<a href="stage1.html">
+					<div class="portfolio-thumb">
+						<img src="images/portfolio-img1.jpg" class="img-responsive" alt="portfolio img">
+							<div class="portfolio-overlay">
+								<h4>Web Design</h4>
+								<h5>Wedding Plan</h5>
+							</div>
+					</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end portfolio -->
+
+		<!-- start contact -->
+		<div id="contact" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 col-lg-offset-1 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+						<address>
+							<p class="contact-title">CONTACT ME</p>
+							<p><i class="fa fa-phone"></i> 07 ** ** ** **</p>
+							<p><i class="fa fa-envelope-o"></i> lionel7830@gmail.com</p>
+							<p><i class="fa fa-map-marker"></i> 3 square lamartine 78330 Fontenay-le-Fleury</p>
+						</address>
+					</div>
+					<div class="col-lg-6 col-md-6 col-xs-10 wow fadeInUp" data-wow-delay="0.6s">
+						<form role="form" method="post" action="#">
+							<input name="name" type="text" class="form-control" id="name" placeholder="Your Name">
+							<input name="email" type="email" class="form-control" id="email" placeholder="Your Email">
+							<textarea name="message" rows="5" class="form-control" id="message" placeholder="Your Message"></textarea>
+							<input name="send" type="submit" class="form-control" id="send" value="SEND ME">
+						</form>
+					</div>
+					<div class="col-md-1 col-sm-1"></div>
+				</div>
+			</div>
+		</div>
+		<!-- end contact -->
+
+		<!-- start footer -->
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 wow fadeIn" data-wow-delay="0.9s">
+						<p>Copyright &copy; 2018 Lavish Personal Profile 
+                        
+                        . Designed by <a rel="nofollow noopener" href="https://templatemo.com">templatemo</a></p>
+						<hr>
+						<ul class="social-icon">
+							<li><a href="https://www.linkedin.com/in/lionel-gon%C3%A7alves-b47367267/" class="fa fa-linkedin"></a></li>
+							<li><a href="https://www.facebook.com/lionel.goncalves.908" class="fa fa-facebook"></a></li>
+							<li><a href="https://www.instagram.com/lionel.gclv/" class="fa fa-instagram"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<!-- end footer -->
+
+	</div>
+
+		<!-- jQuery -->
+		<script src="js/jquery.js"></script>
+		<!-- bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- fullpage -->
+		<script src="js/jquery.fullPage.js"></script>
+		<!-- smoothScroll -->
+		<script src="js/smoothscroll.js"></script>
+		<!-- wow -->
+		<script src="js/wow.min.js"></script>
+		<!-- text rotater -->
+		<script src="js/jquery.simple-text-rotator.js"></script>
+		<!-- custom -->
+		<script src="js/custom.js"></script>
+
+	</body>
 </html>
