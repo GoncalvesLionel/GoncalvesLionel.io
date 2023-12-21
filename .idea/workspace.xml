@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="New portfolio avec template">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+    <list default="true" id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="modif portfolio">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
     </list>
@@ -63,7 +61,7 @@
       <workItem from="1692975070392" duration="704000" />
       <workItem from="1693399448758" duration="2504000" />
       <workItem from="1693555470756" duration="44000" />
-      <workItem from="1703146818130" duration="1637000" />
+      <workItem from="1703146818130" duration="2076000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1674465630476</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688743439303</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="modif portfolio">
+      <created>1703148673082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703148673082</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +147,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="New portfolio avec template" />
-    <option name="LAST_COMMIT_MESSAGE" value="New portfolio avec template" />
+    <MESSAGE value="modif portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="modif portfolio" />
   </component>
 </project>
