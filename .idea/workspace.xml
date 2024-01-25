@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="modif portfolio">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage1.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage1.html" afterDir="false" />
-    </list>
+    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,138 +10,67 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/contact.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/css/style.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/js/main.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/services.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/work-single.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2K51n8dCgD8eZ02uEKnS80LfAd1" />
+  <component name="ProjectId" id="2allHnKHqmZz2NMuMf1xcBfFjSz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/tp-html/GoncalvesLionel.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/noah-master/images&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\noah-master\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\noah-master\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="586e150d-7601-4dc5-9235-2efa14ecb530" name="Changes" comment="" />
-      <created>1673249793803</created>
+      <changelist id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="" />
+      <created>1704900960331</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673249793803</updated>
-      <workItem from="1673249795495" duration="18000" />
-      <workItem from="1674465212863" duration="3006000" />
-      <workItem from="1674578686494" duration="11000" />
-      <workItem from="1684850286007" duration="14000" />
-      <workItem from="1684851440954" duration="77000" />
-      <workItem from="1688733089100" duration="6431000" />
-      <workItem from="1688743165628" duration="92000" />
-      <workItem from="1688743260365" duration="614000" />
-      <workItem from="1688976040262" duration="592000" />
-      <workItem from="1692975070392" duration="704000" />
-      <workItem from="1693399448758" duration="2504000" />
-      <workItem from="1693555470756" duration="44000" />
-      <workItem from="1703146818130" duration="2076000" />
+      <updated>1704900960331</updated>
+      <workItem from="1704900961555" duration="1372000" />
+      <workItem from="1704926101858" duration="2475000" />
+      <workItem from="1704958950550" duration="3190000" />
+      <workItem from="1706004944443" duration="597000" />
+      <workItem from="1706013791031" duration="16000" />
+      <workItem from="1706082151356" duration="3398000" />
+      <workItem from="1706085790457" duration="6000000" />
+      <workItem from="1706162079837" duration="1743000" />
+      <workItem from="1706168825989" duration="3401000" />
     </task>
-    <task id="LOCAL-00001" summary="First commit">
-      <created>1674465630476</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1674465630476</updated>
-    </task>
-    <task id="LOCAL-00002" summary="First commit">
-      <created>1674466061389</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674466061389</updated>
-    </task>
-    <task id="LOCAL-00003" summary="First commit">
-      <created>1674466273903</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1674466273903</updated>
-    </task>
-    <task id="LOCAL-00004" summary="First commit">
-      <created>1674466322370</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1674466322370</updated>
-    </task>
-    <task id="LOCAL-00005" summary="First commit">
-      <created>1674467846199</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1674467846199</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Second commit">
-      <created>1688733510484</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1688733510484</updated>
-    </task>
-    <task id="LOCAL-00007" summary="New portfolio avec template">
-      <created>1688743296548</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1688743296548</updated>
-    </task>
-    <task id="LOCAL-00008" summary="New portfolio avec template">
-      <created>1688743439303</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1688743439303</updated>
-    </task>
-    <task id="LOCAL-00009" summary="modif portfolio">
-      <created>1703148673082</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1703148673082</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit" />
-    <MESSAGE value="Second commit" />
-    <MESSAGE value="New portfolio avec template" />
-    <MESSAGE value="modif portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="modif portfolio" />
   </component>
 </project>
