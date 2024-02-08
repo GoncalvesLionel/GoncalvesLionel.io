@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="correction présentation d'entreprise">
-      <change beforePath="$PROJECT_DIR$/work-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single.html" afterDir="false" />
-    </list>
+    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="correction présentation d'entreprise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <workItem from="1706254371324" duration="59000" />
       <workItem from="1706254464132" duration="24000" />
       <workItem from="1706255546925" duration="606000" />
-      <workItem from="1707378575941" duration="5428000" />
+      <workItem from="1707378575941" duration="6547000" />
     </task>
     <task id="LOCAL-00001" summary="modif total du template">
       <created>1706172457595</created>
@@ -155,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707393982496</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="correction présentation d'entreprise">
+      <created>1707394367438</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707394367438</updated>
+    </task>
+    <task id="LOCAL-00013" summary="correction présentation d'entreprise">
+      <created>1707394617793</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707394617793</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
