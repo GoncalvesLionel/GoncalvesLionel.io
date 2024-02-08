@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="Modif affichage des missions">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="correction présentation d'entreprise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <workItem from="1706254371324" duration="59000" />
       <workItem from="1706254464132" duration="24000" />
       <workItem from="1706255546925" duration="606000" />
-      <workItem from="1707378575941" duration="4646000" />
+      <workItem from="1707378575941" duration="5004000" />
     </task>
     <task id="LOCAL-00001" summary="modif total du template">
       <created>1706172457595</created>
@@ -134,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707387775662</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="conclusion retirer et correction fautes d'orthographe">
+      <created>1707393780049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707393780049</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correction présentation d'entreprise">
+      <created>1707393922499</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707393922499</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +166,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modif total du template" />
     <MESSAGE value="Modif affichage des missions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modif affichage des missions" />
+    <MESSAGE value="conclusion retirer et correction fautes d'orthographe" />
+    <MESSAGE value="correction présentation d'entreprise" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction présentation d'entreprise" />
   </component>
 </project>
