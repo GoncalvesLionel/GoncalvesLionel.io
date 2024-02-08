@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="Modif affichage des missions" />
+    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="Modif affichage des missions">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +76,7 @@
       <workItem from="1706254371324" duration="59000" />
       <workItem from="1706254464132" duration="24000" />
       <workItem from="1706255546925" duration="606000" />
-      <workItem from="1707378575941" duration="3854000" />
+      <workItem from="1707378575941" duration="4646000" />
     </task>
     <task id="LOCAL-00001" summary="modif total du template">
       <created>1706172457595</created>
@@ -118,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707387308715</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modif affichage des missions">
+      <created>1707387634149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707387634149</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Modif affichage des missions">
+      <created>1707387775662</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707387775662</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
