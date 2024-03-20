@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="correction présentation d'entreprise">
-      <change afterPath="$PROJECT_DIR$/mission.html" afterDir="false" />
+    <list default="true" id="6337370f-871a-47e7-be6f-e3313b1aa77a" name="Changes" comment="Rajout mission">
+      <change afterPath="$PROJECT_DIR$/mission2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/work-single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/php/cybers2curit2/cyber-xss-ctf-1",
+    "last_opened_file_path": "D:/Projects/tp-html/GoncalvesLionel.io",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,7 +86,9 @@
       <workItem from="1707378575941" duration="7342000" />
       <workItem from="1707479260365" duration="605000" />
       <workItem from="1708300970683" duration="14000" />
-      <workItem from="1709710676495" duration="2003000" />
+      <workItem from="1709710676495" duration="3619000" />
+      <workItem from="1710765743791" duration="63000" />
+      <workItem from="1710916965801" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="modif total du template">
       <created>1706172457595</created>
@@ -207,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707479264601</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Rajout mission">
+      <created>1709713052147</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709713052147</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +238,7 @@
     <MESSAGE value="Modif affichage des missions" />
     <MESSAGE value="conclusion retirer et correction fautes d'orthographe" />
     <MESSAGE value="correction présentation d'entreprise" />
-    <option name="LAST_COMMIT_MESSAGE" value="correction présentation d'entreprise" />
+    <MESSAGE value="Rajout mission" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rajout mission" />
   </component>
 </project>
